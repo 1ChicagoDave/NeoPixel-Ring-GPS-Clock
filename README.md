@@ -9,6 +9,8 @@ This sketch was written for use with the [ChronoDot RTC](http://docs.macetech.co
 
 > The I2C interface is very straightforward and virtually identical to the register addresses of the popular DS1337 and DS1307 RTCs, which means that existing code for the Arduino, Basic Stamp, Cubloc, and other controllers should work with no modification.     
 
+To see the register address table for ChronoDot's DS3231 RTC chip, [click here](https://github.com/1ChicagoDave/NeoPixel-Ring-GPS-Clock/wiki/DS3231DS-Timekeeping-Registers)     
+
 For help using the Ultimate GPS Shield, Module, or Breakout, follow Adafruit's helpful [tutorial](http://learn.adafruit.com/adafruit-ultimate-gps-logger-shield). 
 
 The latest library and example code for running the NeoPixel Ring can be found [here](https://github.com/adafruit/Adafruit_NeoPixel). If you are new to NeoPixels _\(WS2812 RGB LEDs)_ there is a lot of great information in Adafruit's [NeoPixel Überguide](http://learn.adafruit.com/adafruit-neopixel-uberguide).   
